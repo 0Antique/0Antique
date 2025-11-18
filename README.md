@@ -80,13 +80,16 @@
 <br/>  
 
 
-## GitHub Stats
-<table><tr><td valign="top" width="50%">
+### GitHub Stats
 
-![0Antique's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Antique&show_icons=true&theme=merko)
+<div>
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=0Antique&show_icons=true&theme=merko" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" />
+</div>
 
-</td><td valign="top" width="50%">
+### Links
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)
-
-</td></tr></table>
+<div>
+    <a href="mailto:177885778@qq.com"><img src="https://img.shields.io/badge/177885778@qq.com"></a>
+    <a href="https://https://space.bilibili.com/442593230"><img src="https://img.shields.io/badge/bilibili-00A1D6?logo=bilibili&logoColor=fff&style=flat"></a>
+</div>
