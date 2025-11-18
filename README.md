@@ -28,8 +28,8 @@
 
 
 I will be ***'The Shine'***.
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0Antique)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/0Antique/count.svg)
 
 ![0Antique's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Antique&show_icons=true&theme=merko)
 
