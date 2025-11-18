@@ -8,15 +8,21 @@
 
 
 --I am **Antique**🥰. 
+
 --A second-year graduate student majoring in computer science.
 
 --I like sports 🏃 and board games🎲.My personal best for the half marathon is 1:58:56.
 
---My research direction is **federated learning**.
+--My research direction is **Federal Learning**.
 
 --AI will change the world. I am fortunate to have encountered it.
 
 --We Hope Peace & Love！🥺
+
+--I will be ***'The Shine'***.
+
+## Layout Container
+<table><tr><td valign="top" width="70%">
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -64,14 +70,23 @@
 
 </td></tr></table>  
 
-<br/>  
+</td><td valign="top" width="30%">
 
-I will be ***'The Shine'***.
-
+## WakaTime Stats
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Antique)](https://github.com/anuraghazra/github-readme-stats)
 
+</td></tr></table>
+
+<br/>  
+
+
+## GitHub Stats
+<table><tr><td valign="top" width="50%">
 
 ![0Antique's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Antique&show_icons=true&theme=merko)
 
+</td><td valign="top" width="50%">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)
+
+</td></tr></table>
