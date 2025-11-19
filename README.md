@@ -84,7 +84,7 @@
 
 <div>
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=0Antique&show_icons=true&theme=merko" />
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
 </div>
 
 ### Links
