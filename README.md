@@ -21,8 +21,8 @@
 
 --I will be ***'The Shine'***.
 
-## Layout Container
-<table><tr><td valign="top" width="70%">
+
+<table><tr><td valign="top" align="center" width="70%">
 
 ## Technical Stack  
 <table><tr><td valign="top" width="33%">
