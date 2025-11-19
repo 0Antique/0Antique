@@ -73,7 +73,8 @@
 </td><td valign="top" width="30%">
 
 ## WakaTime Stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Antique)](https://github.com/anuraghazra/github-readme-stats)
+
+<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Antique" />
 
 </td></tr></table>
 
