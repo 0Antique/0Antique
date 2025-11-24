@@ -1,6 +1,6 @@
 ## Hello World!
 <p align=center>
-    <img width="140" src="images/logo.jpg">
+    <img width="130" src="images/logo.jpg">
 <h2 align="center">Antique</h2>
 <h3 align="center">Antique Anti Antique!</h3>
 </p>
