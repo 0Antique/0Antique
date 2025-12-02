@@ -73,18 +73,19 @@
 
 ## WakaTime Stats
 
-<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Antique" />
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Antique&cache_seconds=86400)
 
 </td></tr></table>
 
 <br/>  
 
 
+
 ### GitHub Stats
 
 <div>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=0Antique&show_icons=true&theme=merko" />
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Antique&layout=compact&theme=dark" />
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Antique&show_icons=true&theme=merko&cache_seconds=86400)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Antique&layout=compact&theme=dark&cache_seconds=86400)
 </div>
 
 ## 项目经历
