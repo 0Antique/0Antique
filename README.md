@@ -13,7 +13,7 @@
 
 --I like sports 🏃 and board games🎲.My personal best for the half marathon is 1:58:56.
 
---My research direction is **Federal Learning & LLM**.
+--My research direction is **Federal Learning & LLM-Base Agent**.
 
 --AI will change the world. I am fortunate to have encountered it.
 
