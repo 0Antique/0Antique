@@ -1,7 +1,5 @@
-## Hello World!
 <p align=center>
     <img width="130" src="images/logo.jpg">
-<h2 align="center">Antique</h2>
 <!-- <h3 align="center">Antique Anti Antique!</h3> -->
 
 <div align="center">
@@ -48,6 +46,8 @@
 🏸 Badminton     🚵‍♂️ cycling    🏊 Swimming
 🎲 Board Games   🀄 Mahjong    🎤 Singing
 ```
+
+---
 
 <table><tr><td valign="top" align="center" width="70%">
 
@@ -110,17 +110,21 @@
 
 ## GitHub Stats
 
-<di align="center">
+<div>
     <img height="160px" src="https://github-readme-stats-sigma-six-63.vercel.app/api?username=0Antique&show_icons=true&theme=merko" />
     <img height="160px" src="https://github-readme-stats-sigma-six-63.vercel.app/api/top-langs/?username=0Antique&layout=compact&theme=dark" />
 </div>
 
+---
+
 ## Let's change the world!
 
 <div align="center">
-    [![邮箱](https://img.shields.io/badge/邮箱-177885778@qq.com-007EC6?style=flat&logo=tencentqq&logoColor=fff)](mailto:177885778@qq.com)
-    [![bilibili](https://img.shields.io/badge/bilibili-442593230-00A1D6?style=flat&logo=bilibili&logoColor=fff)](https://space.bilibili.com/442593230)
-    [![CSDN](https://img.shields.io/badge/CSDN-m0_56514491-FF6600?style=flat&logo=csdn&logoColor=fff)](https://blog.csdn.net/m0_56514491)
+    
+[![邮箱](https://img.shields.io/badge/邮箱-177885778@qq.com-007EC6?style=for-the-badgelogo=tencentqq&logoColor=fff)](mailto:177885778@qq.com) 
+[![bilibili](https://img.shields.io/badge/bilibili-442593230-00A1D6?style=for-the-badge&logo=bilibili&logoColor=fff)](https://space.bilibili.com/442593230) 
+[![CSDN](https://img.shields.io/badge/CSDN-m0_56514491-FF6600?style=for-the-badge&logo=csdn&logoColor=fff)](https://blog.csdn.net/m0_56514491)
+    
 </div>
 
 <div align="center">
