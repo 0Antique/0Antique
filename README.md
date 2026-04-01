@@ -3,7 +3,7 @@
 <!-- <h3 align="center">Antique Anti Antique!</h3> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=不朽也不变+那是故事片段;Antique+Anti+Antique!;权当年轻留个纪念~;Peace+%26+Love!;早点睡++别感冒" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=不朽也不变++那是故事片段🥰;Antique+Anti+Antique!;权当年轻留个纪念~;Peace+%26+Love!;早点睡++别感冒" alt="Typing SVG" />
 </div>    
 </p>
 
