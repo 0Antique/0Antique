@@ -121,7 +121,7 @@
 
 <div align="center">
     
-[![邮箱](https://img.shields.io/badge/邮箱-177885778@qq.com-007EC6?style=for-the-badgelogo=tencentqq&logoColor=fff)](mailto:177885778@qq.com) 
+[![邮箱](https://img.shields.io/badge/邮箱-177885778@qq.com-007EC6?style=for-the-badge&logo=tencentqq&logoColor=fff)](mailto:177885778@qq.com) 
 [![bilibili](https://img.shields.io/badge/bilibili-442593230-00A1D6?style=for-the-badge&logo=bilibili&logoColor=fff)](https://space.bilibili.com/442593230) 
 [![CSDN](https://img.shields.io/badge/CSDN-m0_56514491-FF6600?style=for-the-badge&logo=csdn&logoColor=fff)](https://blog.csdn.net/m0_56514491)
     
