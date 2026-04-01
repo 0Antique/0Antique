@@ -2,7 +2,11 @@
 <p align=center>
     <img width="130" src="images/logo.jpg">
 <h2 align="center">Antique</h2>
-<h3 align="center">Antique Anti Antique!</h3>
+<!-- <h3 align="center">Antique Anti Antique!</h3> -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=不朽也不变+那是故事片段;Antique+Anti+Antique!;权当年轻留个纪念~;Peace+%26+Love!;早点睡++别感冒" alt="Typing SVG" />
+</div>    
 </p>
 
 
@@ -11,16 +15,39 @@
 
 --A second-year graduate student majoring in computer science.
 
---I like sports 🏃 and board games🎲.My personal best for the half marathon is 1:58:56.
-
 --My research direction is **Federal Learning & LLM-Base Agent**.
 
 --AI will change the world. I am fortunate to have encountered it.
 
 --We Hope Peace & Love！🥺
 
---I will be ***'The Shine'***.
 
+## 🎨 Hobbies & Interests
+
+> **ESTJ Personality** - 一个人的命运啊，当然要靠自我奋斗，但是也考虑到历史的行程
+
+### 🎵 **Music Enthusiast**
+
+```musical_note
+🎤 King of Karaoke
+🧑‍🎤 Vae； Bruce Liang；David Tao；Wu Bai
+🎼 Pop, Rock, Hajimi
+```
+
+### 🌍 **World Explorer & City Walker**
+
+```travel
+🗺️ Explored 9+ Provinces across China
+✈️ Visited 15+ Citys in China
+🏛️ City Walk & Eating
+```
+### 🏃‍♂️ **Sports & Games**
+
+```sports
+🏃 Distance Running & Marathon. My personal best for the half marathon is 1:58:56.
+🏸 Badminton     🚵‍♂️ cycling    🏊 Swimming
+🎲 Board Games   🀄 Mahjong    🎤 Singing
+```
 
 <table><tr><td valign="top" align="center" width="70%">
 
@@ -81,17 +108,26 @@
 
 
 
-### GitHub Stats
+## GitHub Stats
 
-<div>
+<di align="center">
     <img height="160px" src="https://github-readme-stats-sigma-six-63.vercel.app/api?username=0Antique&show_icons=true&theme=merko" />
     <img height="160px" src="https://github-readme-stats-sigma-six-63.vercel.app/api/top-langs/?username=0Antique&layout=compact&theme=dark" />
 </div>
 
-### Links
+## Let's change the world!
 
-<div>
+<div align="center">
     <a href="mailto:177885778@qq.com"><img src="https://img.shields.io/badge/邮箱-177885778@qq.com-007EC6?style=flat&logo=qq&logoColor=fff"></a>
     <a href="https://space.bilibili.com/442593230"><img src="https://img.shields.io/badge/bilibili-442593230-00A1D6?logo=bilibili&logoColor=fff&style=flat"></a>
     <a href="https://blog.csdn.net/m0_56514491"><img src="https://img.shields.io/badge/CSDN-m0_56514491-FF6600?style=flat&logo=csdn&logoColor=fff"></a>
 </div>
+
+<div align="center">
+    
+### 🎵 *"It was the best of times, it was the worst of times!"* 🎵
+    
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=0Antique.0Antique&left_color=green&right_color=red)
+
+</div>
+
