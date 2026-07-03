@@ -13,7 +13,7 @@
 
 --A second-year graduate student majoring in computer science.
 
---My research direction is **Federal Learning & LLM-Base Agent**.
+--My research direction is **Federated Learning & LLM-Base Agent**.
 
 --AI will change the world. I am fortunate to have encountered it.
 
