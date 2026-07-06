@@ -15,7 +15,7 @@
 
 --My research direction is **Federated Learning & LLM-Base Agent**.
 
---AI will change the world. I am fortunate to have encountered it.
+--AI will change the world, and I feel fortunate to be part of this era.
 
 --We Hope Peace & Love！🥺
 
