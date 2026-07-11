@@ -11,18 +11,26 @@
 
 --I am **Antique**🥰. 
 
---A second-year graduate student majoring in computer science.
+--A third-year graduate student majoring in computer science.
 
---My research direction is **Federated Learning & LLM-Base Agent**.
+--My research direction is **LLM-Base Agent & Federated Learning**.
 
 --AI will change the world, and I feel fortunate to be part of this era.
 
 --We Hope Peace & Love！🥺
 
 
-## 🎨 Hobbies & Interests
+## 🎨 About me
 
-> **ESTJ Personality** - 一个人的命运啊，当然要靠自我奋斗，但是也考虑到历史的行程
+> **ESTJ Personality** - 一个人的命运啊，当然要靠自我奋斗，但是也不得不考虑到历史的行程
+
+### 🥳 **My Dream**
+
+``` Dream
+⌛ First, to extend my mortal span into the 22nd century;
+🛰️ Second, to lift my mortal stature beyond the bounds of Earth into outer space;
+🗽 Third, to stretch my mortal reach across the full breadth of the Western Hemisphere.
+```
 
 ### 🎵 **Music Enthusiast**
 
@@ -35,9 +43,9 @@
 ### 🌍 **World Explorer & City Walker**
 
 ```travel
-🗺️ Explored 9+ Provinces across China
+🗺️ Explored China、Japan、South Korea 
 ✈️ Visited 15+ Citys in China
-🏛️ City Walk & Eating
+🏛️ City Walk & Eating & photography
 ```
 ### 🏃‍♂️ **Sports & Games**
 
