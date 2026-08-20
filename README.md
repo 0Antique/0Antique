@@ -13,7 +13,7 @@
 
 --A third-year graduate student majoring in computer science.
 
---My research direction is **LLM-Base Agent & Federated Learning**.
+--My research direction is **AI Agent & Federated Learning**.
 
 --AI will change the world, and I feel fortunate to be part of this era.
 
@@ -44,8 +44,8 @@
 
 ```travel
 🗺️ Explored China、Japan、South Korea 
-✈️ Visited 15+ Citys in China
-🏛️ City Walk & Eating & photography
+✈️ Visited 30+ Citys in China
+🏛️ City Walk & hiking & photography
 ```
 ### 🏃‍♂️ **Sports & Games**
 
