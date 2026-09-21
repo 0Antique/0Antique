@@ -134,7 +134,7 @@
 [![bilibili](https://img.shields.io/badge/bilibili-0Antique-00A1D6?style=for-the-badge&logo=bilibili&logoColor=fff)](https://space.bilibili.com/442593230) 
 [![小红书](https://img.shields.io/badge/小红书-Antique|AI赋能版-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=fff)](https://www.xiaohongshu.com/user/profile/69cf4f9f000000003201ca5e)
 [![CSDN](https://img.shields.io/badge/CSDN-0Antique-FF6600?style=for-the-badge&logo=csdn&logoColor=fff)](https://blog.csdn.net/m0_56514491)
-    
+[![个人网站](https://img.shields.io/badge/个人网站-0Antique.github.io-181717?style=for-the-badge&logo=github&logoColor=fff)](https://0antique.github.io)
 </div>
 
 <div align="center">
